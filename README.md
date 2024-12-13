@@ -1,6 +1,7 @@
-# Runbook
+#Usage
 
-`cargo run`
+Make sure rust is installed.
+`git clone https://github.com/doddshk/guess_number_rust.git ; cd guess_number_rust ; cargo build ; cargo run`
 
 # Description
 
