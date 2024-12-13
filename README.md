@@ -1,6 +1,6 @@
 # Runbook
 
-'cargo run'
+`cargo run`
 
 # Description
 
